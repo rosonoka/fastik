@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FastikVPN</string>
+    <string name="state_connected">Подключено</string>
+    <string name="state_not_connected">Не подключено</string>
+    <string name="desc_connect_button">Кнопка подключиться</string>
+    <string name="light_theme">Светлая</string>
+    <string name="dark_theme">Темная</string>
+    <string name="title_settings_page">Настройки</string>
+    <string name="system_theme">Системная</string>
+    <string name="light_dynamic_theme">Светлая динамическая</string>
+    <string name="dark_dynamic_theme">Темная динамическая</string>
+    <string name="system_dynamic_theme">Системная динамическая</string>
+    <string name="settings_group_theme">Тема</string>
+    <string name="dynamic_theme_toggle">Динамические цвета</string>
+    <string name="dynamic_theme_toggle_desc">Включает динамические цвета из Material 3</string>
+    <string name="settings_group_theme_theme_picker_title">Вариант</string>
+    <string name="language">Язык</string>
+</resources>

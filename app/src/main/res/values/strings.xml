@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">FastikVPN</string>
+    <string name="state_connected">Connected</string>
+    <string name="state_not_connected">Not connected</string>
+    <string name="desc_connect_button">Connect button</string>
+    <string name="light_theme">Light</string>
+    <string name="dark_theme">Dark</string>
+    <string name="title_settings_page">Settings</string>
+    <string name="system_theme">System</string>
+    <string name="light_dynamic_theme">Dynamic Light</string>
+    <string name="dark_dynamic_theme">Dynamic Dark</string>
+    <string name="system_dynamic_theme">Dynamic System</string>
+    <string name="settings_group_theme">Theme</string>
+    <string name="dynamic_theme_toggle">Dynamic colors</string>
+    <string name="dynamic_theme_toggle_desc">Enables Material 3 dynamic colors</string>
+    <string name="settings_group_theme_theme_picker_title">Variant</string>
+    <string name="language">Language</string>
 </resources>
